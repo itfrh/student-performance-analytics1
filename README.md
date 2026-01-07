@@ -1,2 +1,1 @@
-Student Performance Analytics
-Task 2
+if average>75 
